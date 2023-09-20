@@ -9,10 +9,12 @@ The goal of this project is to create a data pipeline using Google Cloud Platfor
 
 ## Explanation:
 The San Francisco Crime dataset, available at this link: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783 
-contains a wide range of information related to reported incidents in the city. This dataset is a valuable resource for law enforcement agencies, policymakers, and researchers to understand and address crime-related challenges effectively.
+
+Which contains a wide range of information related to reported incidents in the city. This dataset is a valuable resource for law enforcement agencies, policymakers, and researchers to understand and address crime-related challenges effectively.
 
 To use the dataset from the github data folder, the user will have to run a command from the "Splitting_dataset.ipynb" file to join and recreate the original dataset.
-PS: The dataset named Table_analytics.csv
+
+PS: The dataset named "Table_analytics.csv" is the analytics dataset joined in the bigquery after the data model creation.
 
 ## Data Model:
 <img src="Data_model_PoliceCrime.jpeg">
