@@ -27,6 +27,9 @@ PS: The dataset named "Table_analytics.csv" is the analytics dataset joined in t
 4) Data Analysis: GCP offers a range of tools for data analysis, including BigQuery for SQL-based analysis and Cloud Dataprep for visual data exploration. I will leverage BigQuery tools to gain insights from the dataset.
 5) Dashboard Creation: Looker Studio, a data exploration and visualization platform is used to design an interactive and user-friendly dashboard. Looker allows for creating customized dashboards that enable users to explore crime data visually.
 
+## Data Pipeline(Mage-AI Interface)
+<img src="Data_pipeline_PoliceCrime.jpg">
+
 ## Dashboard Features:
 
 This is the link for the looker studio dashboard: https://lookerstudio.google.com/u/0/reporting/120a626e-d27e-479f-9bc6-ee105948ec47/page/p_14tcasr09c?s=sOCm1WkqR6w
@@ -42,6 +45,9 @@ The Looker Studio dashboard includes various features:
 •	Resolution Analysis: Insights into how incidents were resolved or closed.
 
 •	Hotspot Identification: Identification of crime hotspots based on incident density and location.
+
+## Dashboard User Interface
+<img src="Dashboard_Interface.jpg">
 
 ## Advantages:
 
